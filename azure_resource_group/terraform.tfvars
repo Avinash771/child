@@ -1,7 +1,7 @@
 name_rg = {
   first_rg = {
     name_rg = "game-rg"
-    location = "wets us"
+    location = "west us"
     }
 second_rg={
     name_rg ="cricket-gr"
