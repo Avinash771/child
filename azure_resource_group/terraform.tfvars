@@ -5,6 +5,6 @@ name_rg = {
     }
 second_rg={
     name_rg ="cricket-gr"
-    location= "east india"
+    location= "central india"
 }
 }
